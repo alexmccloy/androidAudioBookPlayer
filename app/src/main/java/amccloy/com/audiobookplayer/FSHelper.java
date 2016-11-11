@@ -36,6 +36,7 @@ public class FSHelper {
 			// Unable to create file, likely because external storage is
 			// not currently mounted.
 			Log.w("ExternalStorage", "Error writing " + file, e);
+
 		}
 	}
 
