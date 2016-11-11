@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Audiobook Player</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Titles-->
+    <string name="library">Library</string>
+
+    <!--User Messages-->
+    <string name="no_books_available">There are currently no audiobooks in your library</string>
+
+
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et nisi id est ultricies porttitor et ac velit. Nulla condimentum nisl eget neque faucibus pretium at eget nibh. Nulla eu risus viverra arcu mattis gravida ac vitae dui. Sed sed sapien tortor. In dolor purus, sagittis vehicula lobortis vitae, sodales id tellus. Cras vel velit at enim tristique gravida et vel erat. Integer et lectus vitae felis ultricies ultrices vitae non nibh. Donec ut porttitor orci. Fusce faucibus nec magna fringilla malesuada. Donec non turpis dapibus, varius enim quis, tincidunt velit. Etiam eget quam urna. Donec vel elementum arcu. Suspendisse sagittis venenatis sapien, sit amet dignissim velit aliquet a. Maecenas faucibus urna varius nibh bibendum, non porttitor velit vehicula.</string>
+</resources>
